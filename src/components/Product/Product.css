@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 3px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 10px;
+}
+.product-name{
+    color: rgb(34, 157, 228);
+    font-weight: 400px;
+}
+.btn-regular{
+    background-image: linear-gradient(#ffd814, #ffa41c);
+    text-decoration: none;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
